@@ -78,6 +78,14 @@ public:
    * \param x x coord
    */
   double get_y(double x);
+  /*!
+   * Get pt_ member variable.
+   */
+  Point2D get_pt() { return pt_; }
+  /*!
+   * Get grad_ member variable.
+   */
+  double get_grad() { return grad_; }
 private:
   Point2D pt_; /*!< through point of line */
   double grad_; /*!< gradient of line */
