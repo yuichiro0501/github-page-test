@@ -1,2 +1,3 @@
 # github-page-test
-test for github pages
+GithubでCIを行うためのテストリポジトリ
+また、github pagesの動作確認もしてみたい。（無料版でできる？）
